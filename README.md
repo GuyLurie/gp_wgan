@@ -7,6 +7,8 @@ Generative Adversarial Networks (GANs) have proven highly effective at creating 
 ## Training
 To preform proper training, one should collect the data using "Data collection" Section, run the model defenition using the "Model defenition" section, and train the data using "Training" section. The model will be saved locally in `saved_models`.
 
+Note - we had no failed convergences.
+
 ### Loss Plot
 Presented below are the loss plots for both DCGAN and WGAN-GP:
 
