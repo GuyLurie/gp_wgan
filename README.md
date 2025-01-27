@@ -12,11 +12,11 @@ Presented below are the loss plots for both DCGAN and WGAN-GP:
 
 **DCGAN Plot:**
 
-![DCGAN Loss](assets/dcgan_losses.png)
+![DCGAN Loss](dcgan.png)
 
 **WGAN-GP Plot:**
 
-![WGAN-GP Loss](assets/wgan_losses.png)
+![WGAN-GP Loss](wgan.png)
 
 ## Generation and Evaluation
 If no saved models are available, train a GAN as described in the previous section.
@@ -27,11 +27,11 @@ Additionally, we provide sample outputs from each model, which can be reproduced
 
 **DCGAN Generated Samples:**
 
-![DCGAN Samples](assets/dcgan_generated.png)
+![DCGAN Samples](dcgan_generated.png)
 
 **WGAN-GP Generated Samples:**
 
-![WGAN-GP Samples](assets/wgan_generated.png)
+![WGAN-GP Samples](wgan_generated.png)
 
 ## References
 1. **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.** (2015). [REF](https://arxiv.org/abs/1511.06434)
